@@ -88,7 +88,7 @@
                     </Expander>
                 </Grid>
             </TabItem>
-            <TabItem Header="New">
+            <TabItem Header="Image Selection">
                 <Grid>
                     <Button x:Name="btnJUST" Content="JUST" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="btnJUST_Click">
                         <Button.Style>
@@ -114,7 +114,7 @@
                     <Button x:Name="btnSpongebob" Content="Spongebob" HorizontalAlignment="Left" Margin="90,10,0,0" VerticalAlignment="Top" Width="75" Click="btnSpongebob_Click"/>
                 </Grid>
             </TabItem>
-            <TabItem Header="New2">
+            <TabItem Header="Image Displayer">
                 <Grid>
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="84*"/>

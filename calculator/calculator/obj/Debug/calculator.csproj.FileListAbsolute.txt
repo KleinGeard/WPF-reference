@@ -12,3 +12,17 @@ C:\Users\klein\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\D
 C:\Users\klein\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\Debug\calculator.exe
 C:\Users\klein\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\Debug\calculator.pdb
 C:\Users\klein\Documents\Visual Studio 2015\Projects\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\klein\Documents\GitHub\WPF-reference\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\klein\Documents\GitHub\WPF-reference\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\klein\Documents\GitHub\WPF-reference\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\klein\Documents\GitHub\WPF-reference\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\klein\Documents\GitHub\WPF-reference\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\klein\Documents\GitHub\WPF-reference\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+C:\Users\klein\Documents\GitHub\WPF-reference\calculator\calculator\obj\Debug\MainWindow.g.cs
+C:\Users\klein\Documents\GitHub\WPF-reference\calculator\calculator\obj\Debug\App.g.cs
+C:\Users\klein\Documents\GitHub\WPF-reference\calculator\calculator\obj\Debug\calculator_MarkupCompile.cache
+C:\Users\klein\Documents\GitHub\WPF-reference\calculator\calculator\obj\Debug\calculator_MarkupCompile.lref
+C:\Users\klein\Documents\GitHub\WPF-reference\calculator\calculator\obj\Debug\MainWindow.baml
+C:\Users\klein\Documents\GitHub\WPF-reference\calculator\calculator\obj\Debug\calculator.g.resources
+C:\Users\klein\Documents\GitHub\WPF-reference\calculator\calculator\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\klein\Documents\GitHub\WPF-reference\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
